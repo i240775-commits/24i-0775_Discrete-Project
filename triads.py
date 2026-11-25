@@ -6,7 +6,7 @@ Group roll numbers: 0775, 1050, 1052   |   R = 2877
   Departments A, B = top-20[1], top-20[10] (pair 27)
   45 random networks, 8 x |E| swap attempts, seed 2877
 
-Run on its own:  python triads.py
+
 Prints the hand-worked example and the 13-class triad census of both departments.
 Needs data_prep.py in the same folder.
 """
