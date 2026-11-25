@@ -10,8 +10,8 @@ R = 775 + 1050 + 1052 = 2877
   swap attempts     = (5 + R mod 6) * |E| = 8 * |E|
   random seed       = 2877
 
-Run on its own:  python data_prep.py
-Reads the SNAP files from the data/ folder (nothing is downloaded).
+
+Reads the SNAP files from the data/ folder .
 """
 import argparse
 import gzip
